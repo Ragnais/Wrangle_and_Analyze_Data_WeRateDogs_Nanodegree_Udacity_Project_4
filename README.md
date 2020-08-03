@@ -33,7 +33,9 @@ Each tweet's retweet count and favorite ("like") count at minimum, and any addit
 Then we read this .txt file line by line into a pandas DataFrame with (at minimum) tweet ID, retweet count, and favorite count.
 
 The below  Quality and Tidiness Issues were identified for further cleaning:
+
 Quality Issues
+
 DF: df_tw_archive
 
 1.Incorrect data type for timestamp and retweeted_status_timestamp => Change to datetime
@@ -71,6 +73,8 @@ tweet_info:
 
 2.Join tweet_info with df_tw_archive and image_predictions
 
+
+II. Storing, analyzing, and visualizing the wrangled data;
 
 For the Analyze and Visualize, the next questions were targeted:
 
