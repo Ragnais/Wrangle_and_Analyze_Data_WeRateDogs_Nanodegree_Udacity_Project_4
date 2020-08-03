@@ -1,18 +1,25 @@
 # Wrangle_and_Analyze_Data_WeRateDogs_Nanodegree_Udacity_Project_4
 Introduction
+
 The tasks in this project are as follows:
 
 I. Data wrangling, which consists of:
 
   1.Gathering data;
+  
   2.Assessing data;
+  
   3.Cleaning data.
+
 II. Storing, analyzing, and visualizing the wrangled data;
+
 
 III. Reporting on:
 
     1.The data wrangle_report.pdf;
+    
     2.The data analyses and visualizations act_report.pdf.
+
 Part I. Data wrangling
 
 1.Gathering data
